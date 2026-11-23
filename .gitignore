@@ -3,3 +3,6 @@ tmp_test.txt
 test_runner.mjs
 verifier.mjs
 NOTES.md
+run_practice_table.mjs
+stress_test.mjs
+test_determinism.mjs
